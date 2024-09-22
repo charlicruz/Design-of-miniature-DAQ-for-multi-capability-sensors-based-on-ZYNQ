@@ -4,8 +4,8 @@
 The GitHub project includes the following main components:
 
 
-Hardware: Files related to the hardware design for DAQ project. 
+**Hardware**: Files related to the hardware design for DAQ project. 
 
-Software: Application code for the TENGS readout (developed in C code) and IoT_readout (developed in LabVIEW): sensor data readout executable or configuration files.
+**Software**: Application code for the TENGS readout (developed in C code) and IoT_readout (developed in LabVIEW): sensor data readout executable or configuration files.
 
-Videos: demonstration  explaining the project's setup, use, or functionality.
+**Videos**: demonstration  explaining the project's setup, use, or functionality.
