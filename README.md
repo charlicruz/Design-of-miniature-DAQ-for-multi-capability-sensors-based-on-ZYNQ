@@ -1,0 +1,1 @@
+# Design-of-miniature-DAQ-for-multi-capability-sensors-based-on-ZYNQ
