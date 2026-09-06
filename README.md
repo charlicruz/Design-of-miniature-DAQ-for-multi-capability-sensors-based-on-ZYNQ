@@ -4,6 +4,6 @@
 The GitHub project includes the following main components:
 
 
-**Hardware**: Files related to the hardware design for CNN. 
+**Hardware**: Files related to the hardware design. 
 
-**Software**: CNN source in Matlab.
+**Software**: Labview code for data acquisition.
